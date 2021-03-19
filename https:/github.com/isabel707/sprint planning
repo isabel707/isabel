@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en>
+<body bgcolor="lightblue">
+<head>
+<h1><b>Diseño</h1></b>
+<p>Plan del diseño del proyecto</p>
+<p>Elaboración de diseño</p>
+<br> </br>
+<h2><b>Redacción</h2></b>
+<p>Plan de redacción</p>
+<p>Elaboración de redacción</p>
+<br> </br>
+<h3><b>Software</h3></b>
+<p>Plan de desarrollo de software</p>
+<p>Elaboración de software</p>
+<br> </br>
+<h4><b>Pruebas</h4></b>
+<p>Realizar pruebas de diseño</p>
+<p>Realizar pruebas de redacción</p>
+<p>Realizar pruebas de software</p>
+<p>Realizar pruebas de usabilidad y accesibilidad</p>
+<br> </br>
+<li><a href="#">Cierre</li></a>
+<p>Corrección de posibles fallas</p>
+<p>Cierre del proyecto</p>
+</html>
+</body>
+</head>
